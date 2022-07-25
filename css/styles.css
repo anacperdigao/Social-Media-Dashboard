@@ -197,14 +197,15 @@ main{
     --checkbox: black;
 }
 
+
 .white__switcher {
     top: 5px;
     right: 50px;
     position: absolute;
     display: inline-block;
     width: 100px;
+    color:var(--fonte-paragrafos)
 }
-
 
 
 /* The switch - the box around the slider */
